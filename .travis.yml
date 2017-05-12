@@ -2,8 +2,4 @@ language: c
 
 compiler: gcc
 
-script: make clean
-
 script: make
-
-script: make test
